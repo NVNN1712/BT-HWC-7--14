@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+.popular-tags-box {
+  margin-top: 100px;
+  margin-left: 200px;
+}
+
+.popular-tags .title {
+  font-family: "Roboto", serif;
+  font-weight: 900;
+  font-style: normal;
+  margin-bottom: 20px;
+}
+
+.button-list {
+  margin-bottom: 5px;
+}
+
+.button-list .btn {
+  border: none;
+  background-color: #01bacf;
+  color: white;
+}
+
+.button-list .btn:hover {
+  background-color: black;
+  cursor: pointer;
+}
